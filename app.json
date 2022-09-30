@@ -10,7 +10,7 @@
       ],
     
    "logo":    "",  
-   "repository": "https://github.com/Agunivers7/ShuKurenaiXRoBot",
+   "repository": "https://github.com/Agunivers7/SonGokuRobot",
    "addons": [
           {
          "options": {
@@ -25,7 +25,7 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": "5694266322:AAFuhovA-kFby3QNJjTlGUttDxWtYUNdYuA"
+         "value": "5690796591:AAHnCx2ECkLl71tyZvZcIlkZdCt3_xR1eMY"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -63,7 +63,7 @@
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": "5694266322"
+         "value": "5690796591"
       },
 
       "OWNER_USERNAME": {
